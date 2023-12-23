@@ -4,3 +4,5 @@
 # large datasets directories
 2023-dec-week-3-fraud/clean-datasets/
 2023-dec-week-3-fraud/raw-datasets/
+
+.gitignore
